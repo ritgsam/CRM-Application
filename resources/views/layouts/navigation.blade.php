@@ -6,7 +6,6 @@
                     <a href="{{ route('dashboard') }}">
                     </a>
                 </div>
-
                 <a href="{{ route('dashboard') }}"  class=" text-gray-400 font-medium ">Dashboard</a>
                 <a href="{{ route('leads.index') }}" class="text-gray-400  font-medium">Leads</a>
                 <a href="{{ route('deals.index') }}" class="text-gray-400  font-medium">Deals</a>
